@@ -1,0 +1,17 @@
+{
+    "configurations": [
+    {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Launch Chrome",
+        "url": "file:///home/dlwlrma123/Desktop/Dev/website/index.html",
+        "webRoot": "${workspaceFolder}"
+        
+    }
+    ]
+}
+
+"resolveSourceMapLocations": [
+    "${workspaceFolder}/**",
+    "!**/node_modules/**"
+]

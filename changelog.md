@@ -5,15 +5,15 @@ December Changelogs:
 • Custom Font Picker
 • Introduce QS Clock Picker (thanks to Spark-OS)
 • OOS/Acherus Substratum System Icons
-• ArcUI - redesign
+• ArcUI• redesign
 • Debloated Pixel Gapps  
 • Material you Bootanimation
 • Initial Tresdin's Lair Bringup (tons of customizations from AEX *cough* *cough* )
 • PixelPropUtils: Added some streaming apps to spoof lis for better quality, added samsung wearables/acessory to the spoof list. 
 • Extended Device Spoofing (unlock fps options on supported games)
- - Supported games: CODM, PUBG, WR, Asphalt, MLBB. 
+• Supported games: CODM, PUBG, WR, Asphalt, MLBB. 
 • GrapheneOS Camera 
-• Enabled Call Recording  - OOS dialer
+• Enabled Call Recording • OOS dialer
 • OneUI navigation bar
 • Redesigned Vanilla Apps with monet support
 • Media background notification
@@ -50,3 +50,41 @@ January Release Changelogs:
 • Accessibility improvements
 • Fixed Monet theming on apps like Gboard, AOSP dialer/messages etc..
 • more under the hood improvements
+
+February Release Changelogs:
+• Feb Security Patch 
+• Introducing Arcana Game Space
+• Redesigned UI
+• Added AdGuard/Cloudfare DNS options
+• Per-app volume support
+• Vibration Patterns
+• Different dark theme options
+• SB and rounded corner paddings options
+• Notification delay for apps
+• support for app signature spoofing
+• Improved QS clocks
+• Udfps icons and animations
+• Updated Graphene Camera
+• More fonts and improved icon packs preview
+• fixed some qs and gesture bugs
+• Updated Lawnchair to 12.0.0.0 Alpha 5
+• Toggle for Combined Signal Icons
+• Wifi and signal icon theming
+• fixed some ArcanaSpace Bugs
+  - menu overlay and fps info cant be turned on/off
+  - fixed an issue where user cant upload video from ArcaneSpace on TG/whatsapp
+• silenced lawnchair force close dialog, disable notification for lawnchair if you're annoyed on the lawnchair bug report
+• more options for screen recorder qs tile
+• fixed CPU temp readings
+• minor performance and power consumption improvements
+• Android 13 inspired Media Output Picker/Internet/Screenrecord dialogs from Project Radiant
+• QS footer cleanup
+• Expandable Volume Panel
+• disable/enable privacy indicators
+• Added MicroG location providers 
+• Updated APNs
+• Tresdin's Lair Cleanup 
+• Dropped PUI icon pack
+• Improved Settings Icons
+• Updated UI sounds
+• Misc exclusive OFFICAL build changes

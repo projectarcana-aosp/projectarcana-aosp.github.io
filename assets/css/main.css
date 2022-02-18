@@ -7,6 +7,27 @@
   animation: glow 1s ease-in-out infinite alternate;
 }
 
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #E9333C;
+  border: none;
+  color: white;
+  padding: 8px 8px;
+  border-radius: 22px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+input[type=text] {
+  border: none;
+  color: black;
+  padding: 16px 16px;
+  border-radius: 22px;
+  text-decoration: none;
+  margin: 4px 2px;
+  height: 20px;
+}
+
 @-webkit-keyframes glow {
   from {
     text-shadow: 0 0 20px #22b6f1, 0 0 30px #22b6f1, 0 0 40px #22b6f1, 0 0 50px #22b6f1;
